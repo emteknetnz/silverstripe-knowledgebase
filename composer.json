@@ -1,0 +1,29 @@
+{
+    "name": "benmanu/silverstripe-knowledgebase",
+    "description": "A module for creating a feature rich knowledge-base",
+    "type": "silverstripe-module",
+    "homepage": "http://github.com/benmanu/silverstripe-knowledgebase",
+    "keywords": ["silverstripe", "faq", "search", "knowledgebase", "solr"],
+    "license": "BSD-3-Clause",
+    "authors": [
+      {"name": "Ben Manu","email": "ben@silverstripe.com"},
+      {"name": "Tim Kung","email": "tkung@silverstripe.com"}
+    ],
+    "support": {
+      "issues": "http://github.com/benmanu/silverstripe-knowledgebase/issues"
+    },
+    "require": {
+      "silverstripe/cms": "~3.1",
+      "silverstripe/framework": "~3.1",
+      "silverstripe/faq": "1.1.0",
+      "silverstripe/fulltextsearch": "2.3.1@stable",
+      "silverstripe/siteconfig": "3.5.3@stable",
+      "benmanu/silverstripe-autocomplete": "3.1"
+    },
+    "suggest": {
+      "benmanu/silverstripe-userforms-faqsearchfield": "For a search recommendation field on userforms"
+    },
+    "extra": {
+      "installer-name": "userforms-faqsearchfield"
+    }
+  }

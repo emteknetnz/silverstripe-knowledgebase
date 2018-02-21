@@ -1,0 +1,14 @@
+---
+Name: knowledgebase-extensions
+---
+FAQ:
+  extensions:
+    - FAQRelatedArticlesExtension
+
+FAQPage_Controller:
+  extensions:
+    - FAQPage_ControllerExtension
+
+SiteConfig:
+  extensions:
+    - KnowlegebaseSynonymsSiteConfigExtension

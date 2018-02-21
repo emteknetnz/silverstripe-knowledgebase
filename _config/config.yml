@@ -1,0 +1,12 @@
+---
+Name: knowledgebase
+After: 'faq/*'
+---
+
+FAQSearchIndex:
+  options:
+    extraspath: '../knowledgebase/conf/extras'
+    templatespath: '../knowledgebase/conf/templates'
+  copy_fields:
+    - _text
+    - _spellcheckText
