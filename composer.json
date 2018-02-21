@@ -24,6 +24,6 @@
       "benmanu/silverstripe-userforms-faqsearchfield": "For a search recommendation field on userforms"
     },
     "extra": {
-      "installer-name": "userforms-faqsearchfield"
+      "installer-name": "knowledgebase"
     }
   }
