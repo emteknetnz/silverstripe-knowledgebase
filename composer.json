@@ -18,7 +18,7 @@
       "silverstripe/faq": "1.1.0",
       "silverstripe/fulltextsearch": "2.3.1@stable",
       "silverstripe/siteconfig": "3.5.3@stable",
-      "benmanu/silverstripe-autocomplete": "3.1"
+      "benmanu/silverstripe-autocomplete": "~3.2"
     },
     "suggest": {
       "benmanu/silverstripe-userforms-faqsearchfield": "For a search recommendation field on userforms"
