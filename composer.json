@@ -17,7 +17,7 @@
       "silverstripe/framework": "~3.1",
       "silverstripe/faq": "1.1.0",
       "silverstripe/fulltextsearch": "2.3.1@stable",
-      "silverstripe/siteconfig": "3.5.3@stable",
+      "silverstripe/siteconfig": "^3.6.5",
       "benmanu/silverstripe-autocomplete": "~3.2"
     },
     "suggest": {
